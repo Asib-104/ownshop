@@ -140,10 +140,6 @@ proshop-v2/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License.
 
-## Author
 
-[Asib-104](https://github.com/Asib-104)
